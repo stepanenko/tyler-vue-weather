@@ -1,9 +1,4 @@
-# tyler-vue-weather
-
-## Project setup
-```
-npm install
-```
+## Build a Weather App in VueJS
 
 ### Compiles and hot-reloads for development
 ```
@@ -15,10 +10,4 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Weather API Used: https://openweathermap.org/
